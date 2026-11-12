@@ -8,6 +8,8 @@ Scoring:
   - Category preference: SWE and AI/ML roles weighted higher than others
   - Dedup: one entry per company (best role wins)
 """
+import utils.transport
+import utils.session
 import json
 import time
 import urllib.request

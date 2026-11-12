@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .venv/
 promo_drafts.md
+config.bat
+node_modules
